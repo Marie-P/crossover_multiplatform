@@ -16,7 +16,7 @@ export default class Model {
    * Initialisation de tous les éléments de la map.
    */
   async setMap() {
-    this.map.tileset = await this.pic("../assets/tilesets/mines_of_sharega.png");
+    this.map.tileset = await this.pic("./assets/tilesets/mines_of_sharega.png");
     this.map.numberLayers = 1;
     this.map.mapHeight = 30;
     this.map.mapWidth = 80;
