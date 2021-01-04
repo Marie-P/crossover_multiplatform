@@ -1,0 +1,50 @@
+body {
+  position: relative;
+  margin: 0px;
+  padding: 0px;
+  background: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+  background-image: url("../assets/menu/background.jpg");
+  color: #ffffff;
+  font-size: 30px;
+}
+
+canvas {
+  border: 5px solid white;
+}
+
+div {
+  width: 70%;
+  margin: auto;
+}
+
+button {
+  border: 2px solid #f1f1f1;
+  outline: none;
+  background: transparent;
+  color: #f1f1f1;
+  font-size: 30px;
+  padding: 20px;
+  width: 250px;
+  cursor: pointer;
+  text-align: center;
+}
+
+button:hover {
+  transition: all 0.3s ease-in-out;
+  background: #f1f1f1;
+  color: #333;
+}
+
+button:focus{
+  background: antiquewhite;
+}
+
+.mainMenu {
+  position: relative;
+  font-size: 50px;
+  top: 25%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}

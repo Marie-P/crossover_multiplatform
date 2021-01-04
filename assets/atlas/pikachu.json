@@ -1,0 +1,244 @@
+{"frames": {
+
+"pikachu_fall_01.png":
+{
+	"frame": {"x":0,"y":353,"w":46,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":45},
+	"sourceSize": {"w":46,"h":45}
+},
+"pikachu_jump_01.png":
+{
+	"frame": {"x":47,"y":311,"w":38,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":40},
+	"sourceSize": {"w":38,"h":40}
+},
+"pikachu_jump_02.png":
+{
+	"frame": {"x":85,"y":311,"w":35,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":42},
+	"sourceSize": {"w":35,"h":42}
+},
+"pikachu_jump_03.png":
+{
+	"frame": {"x":46,"y":398,"w":28,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":56},
+	"sourceSize": {"w":28,"h":56}
+},
+"pikachu_jump_04.png":
+{
+	"frame": {"x":74,"y":398,"w":28,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":56},
+	"sourceSize": {"w":28,"h":56}
+},
+"pikachu_jump_05.png":
+{
+	"frame": {"x":46,"y":353,"w":46,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":45},
+	"sourceSize": {"w":46,"h":45}
+},
+"pikachu_jump_06.png":
+{
+	"frame": {"x":0,"y":398,"w":46,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":45},
+	"sourceSize": {"w":46,"h":45}
+},
+"pikachu_jump_07.png":
+{
+	"frame": {"x":32,"y":119,"w":41,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":37},
+	"sourceSize": {"w":41,"h":37}
+},
+"pikachu_run_01.png":
+{
+	"frame": {"x":52,"y":24,"w":49,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":30},
+	"sourceSize": {"w":49,"h":30}
+},
+"pikachu_run_02.png":
+{
+	"frame": {"x":0,"y":0,"w":50,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":23},
+	"sourceSize": {"w":50,"h":23}
+},
+"pikachu_run_03.png":
+{
+	"frame": {"x":0,"y":24,"w":52,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":27},
+	"sourceSize": {"w":52,"h":27}
+},
+"pikachu_run_04.png":
+{
+	"frame": {"x":50,"y":0,"w":51,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":24},
+	"sourceSize": {"w":51,"h":24}
+},
+"pikachu_run_05.png":
+{
+	"frame": {"x":0,"y":54,"w":49,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":30},
+	"sourceSize": {"w":49,"h":30}
+},
+"pikachu_stand_01.png":
+{
+	"frame": {"x":49,"y":54,"w":37,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":31},
+	"sourceSize": {"w":37,"h":31}
+},
+"pikachu_walk_01.png":
+{
+	"frame": {"x":86,"y":54,"w":37,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":31},
+	"sourceSize": {"w":37,"h":31}
+},
+"pikachu_walk_02.png":
+{
+	"frame": {"x":74,"y":85,"w":39,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":34},
+	"sourceSize": {"w":39,"h":34}
+},
+"pikachu_walk_03.png":
+{
+	"frame": {"x":0,"y":85,"w":37,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":31},
+	"sourceSize": {"w":37,"h":31}
+},
+"pikachu_walk_04.png":
+{
+	"frame": {"x":0,"y":119,"w":32,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":35},
+	"sourceSize": {"w":32,"h":35}
+},
+"pikachu_walk_05.png":
+{
+	"frame": {"x":37,"y":85,"w":37,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":31},
+	"sourceSize": {"w":37,"h":31}
+},
+"pikachu_win_01.png":
+{
+	"frame": {"x":46,"y":233,"w":46,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":39},
+	"sourceSize": {"w":46,"h":39}
+},
+"pikachu_win_02.png":
+{
+	"frame": {"x":0,"y":272,"w":46,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":39},
+	"sourceSize": {"w":46,"h":39}
+},
+"pikachu_win_03.png":
+{
+	"frame": {"x":46,"y":272,"w":46,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":39},
+	"sourceSize": {"w":46,"h":39}
+},
+"pikachu_win_04.png":
+{
+	"frame": {"x":73,"y":119,"w":45,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":38},
+	"sourceSize": {"w":45,"h":38}
+},
+"pikachu_win_05.png":
+{
+	"frame": {"x":0,"y":157,"w":45,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":38},
+	"sourceSize": {"w":45,"h":38}
+},
+"pikachu_win_06.png":
+{
+	"frame": {"x":45,"y":157,"w":45,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":38},
+	"sourceSize": {"w":45,"h":38}
+},
+"pikachu_win_07.png":
+{
+	"frame": {"x":0,"y":195,"w":46,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":38},
+	"sourceSize": {"w":46,"h":38}
+},
+"pikachu_win_08.png":
+{
+	"frame": {"x":46,"y":195,"w":46,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":38},
+	"sourceSize": {"w":46,"h":38}
+},
+"pikachu_win_09.png":
+{
+	"frame": {"x":0,"y":233,"w":46,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":38},
+	"sourceSize": {"w":46,"h":38}
+},
+"pikachu_win_10.png":
+{
+	"frame": {"x":0,"y":311,"w":47,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":39},
+	"sourceSize": {"w":47,"h":39}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pikachu.png",
+	"format": "RGBA8888",
+	"size": {"w":123,"h":454},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f8bd2f57a74f88e1591647231235bc2:f7ea149070beb42010447d4a7ffc3315:dd13da1535188b7434878f33829993ce$"
+}
+}

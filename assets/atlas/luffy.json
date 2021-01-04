@@ -1,0 +1,244 @@
+{"frames": {
+
+"luffy_fall_01.png":
+{
+	"frame": {"x":0,"y":0,"w":45,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":53},
+	"sourceSize": {"w":45,"h":53}
+},
+"luffy_jump_01.png":
+{
+	"frame": {"x":45,"y":0,"w":48,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":47},
+	"sourceSize": {"w":48,"h":47}
+},
+"luffy_jump_02.png":
+{
+	"frame": {"x":93,"y":0,"w":48,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":47},
+	"sourceSize": {"w":48,"h":47}
+},
+"luffy_jump_03.png":
+{
+	"frame": {"x":141,"y":0,"w":28,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":64},
+	"sourceSize": {"w":28,"h":64}
+},
+"luffy_jump_04.png":
+{
+	"frame": {"x":169,"y":0,"w":35,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":50},
+	"sourceSize": {"w":35,"h":50}
+},
+"luffy_jump_05.png":
+{
+	"frame": {"x":204,"y":0,"w":45,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":53},
+	"sourceSize": {"w":45,"h":53}
+},
+"luffy_jump_06.png":
+{
+	"frame": {"x":0,"y":64,"w":45,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":53},
+	"sourceSize": {"w":45,"h":53}
+},
+"luffy_run_01.png":
+{
+	"frame": {"x":45,"y":64,"w":47,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":49},
+	"sourceSize": {"w":47,"h":49}
+},
+"luffy_run_02.png":
+{
+	"frame": {"x":92,"y":64,"w":49,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":51},
+	"sourceSize": {"w":49,"h":51}
+},
+"luffy_run_03.png":
+{
+	"frame": {"x":141,"y":64,"w":55,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":49},
+	"sourceSize": {"w":55,"h":49}
+},
+"luffy_run_04.png":
+{
+	"frame": {"x":196,"y":64,"w":53,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":52},
+	"sourceSize": {"w":53,"h":52}
+},
+"luffy_run_05.png":
+{
+	"frame": {"x":0,"y":117,"w":49,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":52},
+	"sourceSize": {"w":49,"h":52}
+},
+"luffy_run_06.png":
+{
+	"frame": {"x":49,"y":117,"w":50,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":49},
+	"sourceSize": {"w":50,"h":49}
+},
+"luffy_run_07.png":
+{
+	"frame": {"x":99,"y":117,"w":56,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":49},
+	"sourceSize": {"w":56,"h":49}
+},
+"luffy_run_08.png":
+{
+	"frame": {"x":155,"y":117,"w":55,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":49},
+	"sourceSize": {"w":55,"h":49}
+},
+"luffy_stand_01.png":
+{
+	"frame": {"x":210,"y":117,"w":41,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":61},
+	"sourceSize": {"w":41,"h":61}
+},
+"luffy_walk_01.png":
+{
+	"frame": {"x":0,"y":178,"w":41,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":64},
+	"sourceSize": {"w":41,"h":64}
+},
+"luffy_walk_02.png":
+{
+	"frame": {"x":41,"y":178,"w":31,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":64},
+	"sourceSize": {"w":31,"h":64}
+},
+"luffy_walk_03.png":
+{
+	"frame": {"x":72,"y":178,"w":32,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
+	"sourceSize": {"w":32,"h":64}
+},
+"luffy_walk_04.png":
+{
+	"frame": {"x":104,"y":178,"w":40,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":63},
+	"sourceSize": {"w":40,"h":63}
+},
+"luffy_walk_05.png":
+{
+	"frame": {"x":144,"y":178,"w":32,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":64},
+	"sourceSize": {"w":32,"h":64}
+},
+"luffy_win_01.png":
+{
+	"frame": {"x":176,"y":178,"w":40,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":41},
+	"sourceSize": {"w":40,"h":41}
+},
+"luffy_win_02.png":
+{
+	"frame": {"x":216,"y":178,"w":40,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":41},
+	"sourceSize": {"w":40,"h":41}
+},
+"luffy_win_03.png":
+{
+	"frame": {"x":0,"y":242,"w":40,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":41},
+	"sourceSize": {"w":40,"h":41}
+},
+"luffy_win_04.png":
+{
+	"frame": {"x":40,"y":242,"w":42,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":50},
+	"sourceSize": {"w":42,"h":50}
+},
+"luffy_win_05.png":
+{
+	"frame": {"x":82,"y":242,"w":42,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":50},
+	"sourceSize": {"w":42,"h":50}
+},
+"luffy_win_06.png":
+{
+	"frame": {"x":124,"y":242,"w":42,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":50},
+	"sourceSize": {"w":42,"h":50}
+},
+"luffy_win_07.png":
+{
+	"frame": {"x":166,"y":242,"w":43,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":61},
+	"sourceSize": {"w":43,"h":61}
+},
+"luffy_win_08.png":
+{
+	"frame": {"x":209,"y":242,"w":43,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":61},
+	"sourceSize": {"w":43,"h":61}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "luffy.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":303},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4d617db3a6a73d1fded941526e701b57:55018677fdabb35d400bc0fbbdbb13d3:a12df4de00d7b82b6487883b92d63e02$"
+}
+}
