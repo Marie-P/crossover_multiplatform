@@ -271,7 +271,7 @@ export default class Controller {
   async initCharacters() {
     let conf = await fetch("./assets/atlas/" + this.model.choosenFirstCharacter + ".json");
     let characterJson = await conf.json();
-    let spritesheet = await this.model.pic("../assets/atlas/" + characterJson["meta"]["image"]);
+    let spritesheet = await this.model.pic("./assets/atlas/" + characterJson["meta"]["image"]);
     this.setCharacter(characterJson, spritesheet, 1);
 
     if(this.model.nbPlayers == 2) {
